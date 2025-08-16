@@ -1,2 +1,2 @@
 # Huchara
-Human Character Analizer
+Human Character Analyser
